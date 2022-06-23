@@ -13,7 +13,12 @@ I build a model to predict fruit categories. In this model, Have 3 classes which
 
 
 You can save your model by calling the save() function on the model and specifying the filename. But usually, we can save the model in 3 formats.
+
 YAML
+
 JSON
+
 HDF5
+
+To learn more follow my blog : https://medium.com/@draj0718/deploying-deep-learning-model-using-flask-api-810047f090ac
 
